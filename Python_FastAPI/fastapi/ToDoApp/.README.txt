@@ -1,0 +1,24 @@
+.README
+Project ToDoApp
+File Location: HuyenIntern\fastapi\ToDoApp\
+
+Description: 
+Simple Web site running on localhost, using MySQL to store database, using JWT for authentication
+# trong version tải lên git thì em kết nối bằng sqlite3, thay vì MySQL
+
+Features: Create User/Update Password, create/update/delete to-do list for each user,…
+
+Note:
+Để xem database users: sqlite3 todos.db
+
+Xem cấu trúc các bảng: .schema 
+
+Xem thông tin bảng: select * from users;
+ 
+*codingwithroby (Password: test1234!)
+*phone(Password: 1)
+
+
+
+
+
